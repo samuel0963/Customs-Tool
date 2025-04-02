@@ -1,0 +1,80 @@
+=== SALES REPORT SUMMARY ===
+
+Total records: 216
+Total columns: 19
+
+=== COLUMN NAMES ===
+
+- "DECEMBER"
+- "number"
+- "ITEM SOLD "
+- "BAR CODE"
+- "DF US$"
+- "DPUS$"
+- "COST US$"
+- "DISCOUNT"
+- "INVOICE .NO"
+- "VESSEL NAME"
+- "TICKET #"
+- "DEPART. DATE"
+- "ID #"
+- "TYPE OF ID"
+- "FIRST NAME"
+- "LAST NAME"
+- "PLACE OF ISSUE"
+- "DEP. PORT"
+- "TYPE OF SALE"
+
+=== UNIQUE VALUES COUNT ===
+
+ITEM SOLD : 124 unique values
+BAR CODE: 160 unique values
+VESSEL NAME: 26 unique values
+TYPE OF ID: 3 unique values
+DEP. PORT: 1 unique values
+TYPE OF SALE: 2 unique values
+
+=== SAMPLE UNIQUE ITEMS SOLD (max 20) from column "ITEM SOLD " ===
+
+- TREASURES OF BALI SCRUNCHIES
+- OURAY CAP
+- SCANDAL PANTS
+- OURAY POLO SHIRT
+- SAMSON SHORS
+- NURIA SWIMSUIT
+- PRANELLA TOP
+- TRIANGLE SHORTS
+- VISOR
+- PINK HOUSE RING
+- PINK HOUSE BRACELET
+- PINK HOUSE NECKLACE
+- PINK HOUSE EARRING
+- MICHEAL TUNIC
+- BODY GLOVE TOP
+- BODY GLOVE BOTTOM
+- BOD GLOVE RASHGUARD
+- SUN N SAND HAT
+- HAT
+- SARONG
+
+=== MISSING VALUES ===
+
+DECEMBER: 188 missing values
+number: 29 missing values
+ITEM SOLD : 29 missing values
+BAR CODE: 29 missing values
+DF US$: 33 missing values
+DPUS$: 212 missing values
+COST US$: 35 missing values
+DISCOUNT: 216 missing values
+INVOICE .NO: 29 missing values
+VESSEL NAME: 101 missing values
+TICKET #: 111 missing values
+DEPART. DATE: 101 missing values
+ID #: 103 missing values
+TYPE OF ID: 102 missing values
+FIRST NAME: 100 missing values
+LAST NAME: 100 missing values
+PLACE OF ISSUE: 101 missing values
+DEP. PORT: 101 missing values
+TYPE OF SALE: 97 missing values

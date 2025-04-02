@@ -1,0 +1,30 @@
+# ASYCUDA Export Declaration Automation Tool - Requirements.txt
+
+# Core dependencies
+streamlit>=1.20.0
+pandas>=1.5.0
+openpyxl>=3.0.10
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.12.2
+reportlab>=3.6.12
+schedule>=1.1.0
+
+# PDF processing
+PyPDF2>=2.10.0
+
+# Data validation
+jsonschema>=4.17.0
+
+# UI enhancements
+streamlit-extras>=0.2.0
+
+# Excel handling
+xlrd>=2.0.1
+xlsxwriter>=3.0.3
+
+# Automation
+apscheduler>=3.9.1
+
+# Utilities
+python-dateutil>=2.8.2
+pytz>=2022.7
